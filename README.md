@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-acosta-nieto/)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="oscuro.jpg">
- <source media="(prefers-color-scheme: light)" srcset="claro.jpg">
- <img alt="Una imagen grandiosa" src="claro.jpg" height="400">
+ <source media="(prefers-color-scheme: dark)" srcset="Ultimación1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="Ultimación1.jpg">
+ <img alt="Una imagen grandiosa" src="Ultimación1.jpg" height="400">
 </picture>
 
 *Hecho por mí.*
